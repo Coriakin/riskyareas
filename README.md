@@ -12,5 +12,5 @@ This repository contains that list in a more programatically consumable way :)
 
 Sources
 - https://polisen.se/om-polisen/polisens-arbete/utsatta-omraden/#kartgranser "2023-12-01"
-- https://www.solna.se/om-solna-stad/alla-nyheter/arkiv/2023-12-01-hagalund-listas-som-utsatt-omrade "2023-12-01"
+- https://fastighetstidningen.se/%ef%bf%bcny-lista-over-utsatta-omraden/ "2023-12-01"
 - https://www.fastighetsvarlden.se/notiser/tre-nya-omraden-pa-polisens-lista/ "2021-10-14
