@@ -11,5 +11,6 @@ This repository contains that list in a more programatically consumable way :)
 > A particularly vulnerable area means that it is a vulnerable area where there is a reluctance to participate in legal proceedings, that it is difficult or almost impossible for the police to fulfill their mission and that the area has to some extent "parallel social structures and extremism"
 
 Sources
-- https://polisen.se/om-polisen/polisens-arbete/utsatta-omraden/#kartgranser
+- https://polisen.se/om-polisen/polisens-arbete/utsatta-omraden/#kartgranser "2023-12-01"
+- https://www.solna.se/om-solna-stad/alla-nyheter/arkiv/2023-12-01-hagalund-listas-som-utsatt-omrade "2023-12-01"
 - https://www.fastighetsvarlden.se/notiser/tre-nya-omraden-pa-polisens-lista/ "2021-10-14
